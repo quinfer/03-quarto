@@ -35,8 +35,8 @@ library(gtsummary)
 ## Sli.do
 
 -   Anonymous questions for real-time feedback
--   Got to <https://slido.com> and use code: `#qms-toolkit`
--   Or use this direct link <https://app.sli.do/event/aTPPko2f7tZVGQcyCxe44J>
+-   Got to <https://slido.com> and use code: `#afda1`
+-   Or use this direct link <https://app.sli.do/event/7VjkspPrPUb4KFrji3ojz8>
 
 #  {background-color="#447099"}
 
@@ -44,8 +44,8 @@ library(gtsummary)
 
 ## Hello Learners
 
--   Got to <https://slido.com> and use code: `#qms-toolkit`
--   Or use this direct link <https://app.sli.do/event/aTPPko2f7tZVGQcyCxe44J>
+-   Got to <https://slido.com> and use code: `#afda1`
+-   Or use this direct link <https://app.sli.do/event/7VjkspPrPUb4KFrji3ojz8>
 
 ## We assume
 
